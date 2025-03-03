@@ -1,4 +1,8 @@
 Notion Links to Know What i did in the labs in details
+
+
+
+
 lab1 
 ---------------
 https://best-aragon-510.notion.site/Terraform-LAB-1-1a8fd15b56a3808b91b5f227f8406f9e?pvs=4
